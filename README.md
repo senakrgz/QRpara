@@ -8,7 +8,7 @@
 # Requirements 
 
 -Python 3.x
-Necessary libraries:
-qrcode for generating and reading QR codes
-json or any database for storing user data and QR code states
-flask for website UI
+-Necessary libraries:
+-qrcode for generating and reading QR codes
+-json or any database for storing user data and QR code states
+-flask for website UI
