@@ -5,7 +5,7 @@
 -Active QR Code: If the QR code has not been used before (active), the system allows you to load the value specified on the QR code into your digital balance.
 -Inactive QR Code: If the QR code has already been used (inactive), the system requires a certain amount of value to be deducted from your balance to activate the QR code. Once activated, the QR code can be used for future transactions.
 
-#Requirements 
+# Requirements 
 
 -Python 3.x
 Necessary libraries:
